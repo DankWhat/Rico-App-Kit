@@ -19,7 +19,7 @@ from urllib.request import urlretrieve
 
 # Constants
 CONSTANT_VERSION_STRING: Final[str] = "v1.1.0"
-CONSTANT_MAXTIME_JRE_DOWNLOAD_URL: Final[str] = "https://github.com/MaxineToTheStars/MaxTime-JRE/releases/download/latest/maxtime-jre.zip"
+CONSTANT_MAXTIME_JRE_DOWNLOAD_URL: Final[str] = "https://github.com/DankWhat/MaxTime-JRE/releases/download/latest/maxtime-jre.zip"
 CONSTANT_CUSTOM_BAT_DATA: Final[str] = f"""
 @echo off
 echo
